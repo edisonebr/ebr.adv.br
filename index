@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EBR Advocacia</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Logo EBR Advocacia">
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="services.html">Serviços</a></li>
+                <li><a href="contact.html">Contato</a></li>
+                <li><a href="data.html">Processos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="banner">
+            <h1>Bem-vindo ao EBR Advocacia</h1>
+        </section>
+        <section class="about">
+            <h2>Sobre nós</h2>
+            <p>Descrição do escritório...</p>
+        </section>
+        <section class="services">
+            <h2>Nossos Serviços</h2>
+            <ul>
+                <li>Serviço 1</li>
+                <li>Serviço 2</li>
+                <li>Serviço 3</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Contato: email@ebr.adv.br | Telefone: (00) 0000-0000</p>
+        <p>Redes sociais: <a href="#">Facebook</a> | <a href="#">Instagram</a></p>
+    </footer>
+</body>
+</html>
